@@ -28,8 +28,8 @@ Thu - session / recap + next
 
 Once you accept:
 
-1. You will get a repository of your own. 
-1. Observe in the `Actions` tab, that the build is failing.
+1. You will get a repository of your own.
+1. Observe the failure of a workflow in the `Actions` tab.
 1. Clone the repository and code. Do not create any branch. To start, see README.md in your repository.
 1. Commit and push to GitHub. This will trigger another run in the `Actions` tab.
 1. Ensure that the code compiles and the tests are passing. This will give you a successful run. Check for the green-tick in the `Actions` tab.
