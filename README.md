@@ -2,24 +2,23 @@
 
 ## Suggested weekly flow
 
-Fri - session - clone + read assignment code
-weekend
+Thu - session - clone + read assignment & code
 
 ---
 
-Mon --> (multiple commits permitted)
+Fri to Tue --> (multiple commits permitted)
 
 Tue --> commit 'at least / latest' by EoD
 
 ---
 
-Wed --> Latest commit will be picked for review
+Tue --> Latest commit will be picked for review
 
-Wed + Thu --> rework or respond
+Wed --> rework or respond
 
 ---
 
-Fri - session / recap + next
+Thu - session / recap + next
 
 ## Try it
 
