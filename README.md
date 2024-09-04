@@ -22,7 +22,7 @@ Thu - session / recap + next
 
 ## Try it
 
-[Modular well-named](small.md)
+[Modular well-named](small.md) and [recap](small-recap.md)
 
 [C++ entrance](https://classroom.github.com/a/B099OgVp) and [recap](spring-recap.md)
 
