@@ -6,6 +6,10 @@
 
 [Separation](https://github.com/code-craft-us-1/well-named-in-cpp-nageshwariK/pull/1/files) of reading and writing
 
+## Reducing the effort of manual testing
+
+[Testing the properties](https://github.com/code-craft-us-1/well-named-in-cpp-koushik-philips/blob/a176c41c7746e1e682a96498558ecacd68dfc90e/ColorTests.cpp) of the reference manual
+
 ## A case against generic naming
 
 Be careful of files whose name ends in `Utility`, `Manager`, `Handler`, `Helper`
