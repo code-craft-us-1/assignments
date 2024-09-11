@@ -10,6 +10,13 @@
 
 ## Reducing the effort of manual testing
 
+Simple test - proves that it doesn't crash, and output is non-empty. Rest needs manual testing.
+
+```cpp
+std::string colorpairStr = ColorFormatter::printcolorcodes();
+assert(!colorpairStr.empty());
+```
+
 [Testing the properties](https://github.com/code-craft-us-1/well-named-in-cpp-koushik-philips/blob/a176c41c7746e1e682a96498558ecacd68dfc90e/ColorTests.cpp) of the reference manual
 
 ## A case against generic naming
