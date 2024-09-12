@@ -4,7 +4,7 @@ Tests are passing even if the code is buggy! **WAIT!** Do not make the code work
 
 Strenthen the test to fail a defective implementation.
 
-A successful test fails this assignment!
+A successful test fails this assignment! For details, see the README and workflows in your assignment.
 
 While you are strenthening the test:
 
