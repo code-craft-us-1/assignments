@@ -10,6 +10,8 @@
 
 [Split using headers](https://github.com/code-craft-us-1/well-named-in-cpp-Sriranganatha1979)
 
+[Separate folder for tests, separate file for formatting](https://github.com/code-craft-us-1/well-named-in-cpp-ArjunanPrakash/pull/1/files)
+
 ## Generic naming is a smell
 
 Generic naming examples: `Utility`, `Manager`, `Handler`, `Helper`
