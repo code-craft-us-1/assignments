@@ -24,5 +24,7 @@ int printColorMap(std::ostream& out) {
 
 [Test with the smallest possible data](https://github.com/code-craft-us-1/test-failer-in-cpp-jayydev/blob/4a7e84398cff86862f3231b7ff42ac4281358704/misaligned.cpp)
 
+[Test samples](https://github.com/code-craft-us-1/test-failer-in-cpp-Karan-Dutt/blob/4948075e6bebca4c22c443f8b1b11122d069e92e/TestFailer/UnitTests/src/testColorCombinations.cpp)
+
 [Automate the test](https://github.com/code-craft-us-1/test-failer-in-cpp-ashankkumarsingh/blob/51ec2cf4978a5042a4b725df44a644b7e42da1c9/misaligned.cpp#L104) for "alignment"
 
