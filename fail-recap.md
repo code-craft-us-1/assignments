@@ -23,3 +23,6 @@ int printColorMap(std::ostream& out) {
 [Prefer specific types](https://github.com/code-craft-us-1/test-failer-in-cpp-srivathsa-sarvothama/blob/58f95872c35183e18fcbbee37ac27a7c8530d8bf/tshirts/TShirtSize.cpp) for 'mistake proofing'
 
 [Test with the smallest possible data](https://github.com/code-craft-us-1/test-failer-in-cpp-jayydev/blob/4a7e84398cff86862f3231b7ff42ac4281358704/misaligned.cpp)
+
+[Automate the test](https://github.com/code-craft-us-1/test-failer-in-cpp-ashankkumarsingh/blob/51ec2cf4978a5042a4b725df44a644b7e42da1c9/misaligned.cpp#L104) for "alignment"
+
