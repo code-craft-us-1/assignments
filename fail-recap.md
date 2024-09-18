@@ -15,3 +15,10 @@ int printColorMap(std::ostream& out) {
     return i * j;
 }
 ```
+
+---
+
+[Test a user's expectations](https://github.com/code-craft-us-1/test-failer-in-cpp-srivathsa-sarvothama/blob/58f95872c35183e18fcbbee37ac27a7c8530d8bf/misaligned/ColorPairTests.cpp) of the manual
+
+[Prefer specific types](https://github.com/code-craft-us-1/test-failer-in-cpp-srivathsa-sarvothama/blob/58f95872c35183e18fcbbee37ac27a7c8530d8bf/tshirts/TShirtSize.cpp) for 'mistake proofing'
+
