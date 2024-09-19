@@ -22,7 +22,9 @@ Thu - session / recap + next
 
 ## Try it
 
-[Fail the false positive](fail.md)
+[Pass the failing test](pass.md)
+
+[Fail the false positive](fail.md) and [recap](fail-recap.md)
 
 [Modular well-named](small.md) and [recap](small-recap.md)
 
