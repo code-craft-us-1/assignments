@@ -25,6 +25,8 @@ Don't hard-code numbers like 5... but it's someone else's code??
         for (j = 0; j < 5; j++) {
 ```
 
+TDD: [Isolate formatting and make a minimal failing test](https://github.com/code-craft-us-1/test-failer-in-cpp-Sriranganatha1979/blob/6615ae6332958f2092ba0e325ac63aefb98a1d69/misaligned.cpp)
+
 [Test a user's expectations](https://github.com/code-craft-us-1/test-failer-in-cpp-srivathsa-sarvothama/blob/58f95872c35183e18fcbbee37ac27a7c8530d8bf/misaligned/ColorPairTests.cpp) of the manual
 
 [Prefer specific types](https://github.com/code-craft-us-1/test-failer-in-cpp-srivathsa-sarvothama/blob/58f95872c35183e18fcbbee37ac27a7c8530d8bf/tshirts/TShirtSize.cpp) for 'mistake proofing'
@@ -34,4 +36,3 @@ Don't hard-code numbers like 5... but it's someone else's code??
 [Test samples](https://github.com/code-craft-us-1/test-failer-in-cpp-Karan-Dutt/blob/4948075e6bebca4c22c443f8b1b11122d069e92e/TestFailer/UnitTests/src/testColorCombinations.cpp)
 
 [Automate the test](https://github.com/code-craft-us-1/test-failer-in-cpp-ashankkumarsingh/blob/51ec2cf4978a5042a4b725df44a644b7e42da1c9/misaligned.cpp#L104) for "alignment"
-
