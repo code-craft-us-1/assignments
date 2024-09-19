@@ -27,7 +27,7 @@ Don't hard-code numbers like 5... but it's someone else's code??
 
 TDD: [Isolate formatting and make a minimal failing test](https://github.com/code-craft-us-1/test-failer-in-cpp-Sriranganatha1979/blob/6615ae6332958f2092ba0e325ac63aefb98a1d69/misaligned.cpp)
 
-[Test a user's expectations](https://github.com/code-craft-us-1/test-failer-in-cpp-srivathsa-sarvothama/blob/58f95872c35183e18fcbbee37ac27a7c8530d8bf/misaligned/ColorPairTests.cpp) of the manual
+[Test against a user's frustration](https://github.com/code-craft-us-1/test-failer-in-cpp-srivathsa-sarvothama/blob/58f95872c35183e18fcbbee37ac27a7c8530d8bf/misaligned/ColorPairTests.cpp) and [expectations](https://github.com/code-craft-us-1/test-failer-in-cpp-jayydev/blob/be18ec76f1028cf7794eaf80594912699fcfdab2/misaligned.cpp) of the manual. 
 
 [Prefer specific types](https://github.com/code-craft-us-1/test-failer-in-cpp-srivathsa-sarvothama/blob/58f95872c35183e18fcbbee37ac27a7c8530d8bf/tshirts/TShirtSize.cpp) for 'mistake proofing'
 
