@@ -22,7 +22,9 @@ Thu - session / recap + next
 
 ## Try it
 
-[Pass the failing test](pass.md)
+[Reduce complexity](functional.md)
+
+[Pass the failing test](pass.md) and [recap](pass-recap.md)
 
 [Fail the false positive](fail.md) and [recap](fail-recap.md)
 
