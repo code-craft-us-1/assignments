@@ -17,3 +17,8 @@ return report;
 
 ---
 
+Let the assert express the customer need. What does this express?
+
+```cpp
+assert(report.find("rain") != string::npos);
+```
