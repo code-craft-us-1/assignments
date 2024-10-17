@@ -22,7 +22,9 @@ Thu - session / recap + next
 
 ## Try it
 
-[Reduce complexity](functional.md)
+[Extend and Refactor](extend-refactor.md)
+
+[Reduce complexity](functional.md) and [recap](functional-recap.md)
 
 [Pass the failing test](pass.md) and [recap](pass-recap.md)
 
