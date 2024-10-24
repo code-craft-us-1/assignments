@@ -1,7 +1,7 @@
 # Extending and Refactoring
 
 This assignment is about extending functionality.
-Work on the repository from your previous assignment to extend it (see extensions below). It's a continuation in the [same domain](vitals-domain.md).
+Work on the repository from your previous assignment to extend it (see extensions below). It's a continuation in the same domain.
 
 Often, code becomes more complex while extending it.
 The 'cleanliness' of the code goes down.
