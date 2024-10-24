@@ -22,7 +22,9 @@ Thu - session / recap + next
 
 ## Try it
 
-[Extend and Refactor](extend-refactor.md)
+[Feedback survey](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=LXpAGnV2F02GkrOsKFMG5MIBykE8w1FAqEb47Plu6GVUMlZJT0k4SUFHVjRTWE5YRE1aREFKRFZYMy4u)
+
+[Extend and Refactor](extend-refactor.md) and [recap](extend-refactor-recap.md)
 
 [Reduce complexity](functional.md) and [recap](functional-recap.md)
 
